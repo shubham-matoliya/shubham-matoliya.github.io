@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f51bb524.css",
+    "main.css": "/static/css/main.4e426ce4.css",
     "main.js": "/static/js/main.dd717c06.js",
     "static/media/My-project-1.png": "/static/media/My-project-1.970c177b741ce5f9666b.png",
     "static/media/Shubham-Matoliya-Resume.pdf": "/static/media/Shubham-Matoliya-Resume.09f6fe0d37002b440895.pdf",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
-    "main.f51bb524.css.map": "/static/css/main.f51bb524.css.map",
+    "main.4e426ce4.css.map": "/static/css/main.4e426ce4.css.map",
     "main.dd717c06.js.map": "/static/js/main.dd717c06.js.map"
   },
   "entrypoints": [
-    "static/css/main.f51bb524.css",
+    "static/css/main.4e426ce4.css",
     "static/js/main.dd717c06.js"
   ]
 }
